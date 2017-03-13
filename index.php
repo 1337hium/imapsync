@@ -44,35 +44,35 @@
       <div class="row"> 
       <div class="col-md-4">
 
-  Alter Host: <input type="text" name="oldhost" placeholder="phoenix.webstyle.ch"><br>
-  Alte Mailadresse: <input type="text" name="olduser" placeholder="user@domain.tld"><br>
-  Altes Kennwort: <input type="password" name="oldpw"><br>
-  Alter Authmech: <input type="text" name="oldauth" value="PLAIN"><br>
+  Old Host: <input type="text" name="oldhost" placeholder="mail.domain.tld"><br>
+  Old E-Mail: <input type="text" name="olduser" placeholder="user@domain.tld"><br>
+  Old Password: <input type="password" name="oldpw"><br>
+  Old Authmech: <input type="text" name="oldauth" value="PLAIN"><br>
 </div>
 <div class="row">
       <div class="col-md-4">
-  Neuer Host: <input type="text" name="newhost" placeholder="phoenix.webstyle.ch"><br>
-  Neue Mailadresse: <input type="text" name="newuser" placeholder="user@domain.tld"><br> 
-  Neues Kennwort: <input type="password" name="newpw"><br>
-  Neuer Authmech: <input type="text" name="newauth" value="PLAIN"><br> 
+  New Host: <input type="text" name="newhost" placeholder="mail.domain.tld"><br>
+  New E-Mail: <input type="text" name="newuser" placeholder="user@domain.tld"><br> 
+  New Password: <input type="password" name="newpw"><br>
+  New Authmech: <input type="text" name="newauth" value="PLAIN"><br> 
 <button type="submit" class="btn btn-default">Submit</button>
 </form>
 </div>
 <div class="row">
       <div class="col-md-4">
 <br>
-Hostname eingeben<br>
+Enter Hostname<br>
 <br>
 <br>
 <br>
-E-Mail Adresse
-<br>
-<br>
-<br>
-<br>
-Kennwörter von altem und neuem Server
+Enter E-Mail
 <br>
 <br>
 <br>
 <br>
-PLAIN oder LOGIN, wobei PLAIN zu 99% funktioniert
+Passwords from old and new Server
+<br>
+<br>
+<br>
+<br>
+PLAIN or LOGIN
