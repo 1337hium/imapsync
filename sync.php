@@ -71,7 +71,7 @@ echo '</pre>';
 </br>
 </br>
 
-<button type="submit" name="update" id="update" class="btn btn-default" onclick="goBack()">zurück</button>
+<button type="submit" name="update" id="update" class="btn btn-default" onclick="goBack()">back</button>
 
 <script>
 function goBack() {
